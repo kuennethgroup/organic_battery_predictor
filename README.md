@@ -1,1 +1,3 @@
-# organic_batteries
+Organic negative electrodes predictor
+
+
