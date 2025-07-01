@@ -1,7 +1,7 @@
     
 # Organic Battery Predictor 🔋
 
-This repository is based on our published work, bringing AI to the forefront of battery material discovery! ✨
+This repository is based on our published work, bringing AI to the forefront of organic battery material discovery! ✨
 
 ---
 
